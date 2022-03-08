@@ -3,7 +3,7 @@
 # Spend some time changing the variables and running the file to see how the story changes.
 
 
-door_choice = 1
+door_choice = 2
 bear_clothing = ""
 bear_choice = 1
 
